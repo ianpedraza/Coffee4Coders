@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Coffee4Coders</string>
+
+    <!-- Feed Screen -->
+    <string name="fee_screen_title">Welcome</string>
+    <string name="fee_screen_description">This app is made for developers, for all those who\'s into coffee, so enjoy of our coffees as much as us.</string>
+
+    <!-- Detail Screen -->
+    <string name="detail_product_title">Coffee from</string>
+    <string name="detail_add_to_cart">Add to Cart</string>
+
+    <!-- Checkout Screen -->
+    <string name="checkout_subtotal">Subtotal</string>
+    <string name="checkout_shipment">Shipment</string>
+    <string name="checkout_total">Total</string>
+    <string name="checkout_place_order">Place Order</string>
+    <string name="checkout_alert_title">Congratulations</string>
+    <string name="checkout_alert_message">You\'r order has been placed</string>
+
+    <!-- Fields -->
+    <string name="field_full_name">Full Name</string>
+    <string name="field_email">Email</string>
+    <string name="field_phone_number">Phone Number</string>
+    <string name="field_address">Address</string>
+    <string name="field_cities">Cities</string>
+
+    <!-- Common -->
+    <string name="ok">Ok</string>
+
+    <!-- Errors -->
+    <string name="e_invalid_product">Invalid Product</string>
+
+    <!-- Content descriptions -->
+    <string name="cd_product_card_bg">Background of the card</string>
+    <string name="cd_product_flag">Product\'s origin flag</string>
+    <string name="cd_navigation_icon">AppBar Navigation Icon</string>
+    <string name="cd_dropdown_icon">Dropdown Icon</string>
+
+    <!-- Dummy -->
+    <string name="dummy_lorem_ipsum">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</string>
+
+</resources>
